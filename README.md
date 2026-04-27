@@ -11,6 +11,7 @@ A collection of SwiftUI projects built while mastering iOS development. From the
 ## Projects
 
 - **WordScramble** — A word game built with SwiftUI, covering List, NavigationStack, TextField, and more.
+- **AnimationTechnique** — Exploring SwiftUI animations: implicit/explicit animations, transitions, and motion effects. Lives on the `animation-technique` branch.
 
 ## The Mindset
 
