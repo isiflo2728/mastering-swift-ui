@@ -18,4 +18,12 @@ A collection of SwiftUI projects built while mastering iOS development. From the
 
 ## The Mindset
 
-Skills are not given. They're built — one commit at a time. Keep going.
+Skills are not given. They're built — one commit at a time.
+
+Nobody starts out knowing how to build apps. Every developer you look up to was once stuck on the same errors, confused by the same concepts, and wondering if it was worth continuing. The difference is they kept going.
+
+This repo is the proof of that process. Not every commit is clean. Not every project is perfect. But every single one moved the needle forward — a new concept clicked, a bug finally made sense, a feature that seemed impossible got shipped.
+
+That's how it works. You don't wait until you feel ready. You build until you are.
+
+Keep going.
