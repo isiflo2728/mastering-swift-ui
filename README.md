@@ -15,6 +15,7 @@ A collection of SwiftUI projects built while mastering iOS development. From the
 - **iExpense** — Expense tracker with personal/business filtering, UserDefaults persistence, and swipe-to-delete. Lives on the `iexpense` branch.
 - **Moonshot** — An interactive history of the Apollo missions. Browse every Apollo mission in a dark-themed LazyVGrid, tap into mission details with crew highlights and descriptions, and drill further into individual astronaut bios. Built with JSON decoding via a generic `Bundle` extension, `Codable` models (`Mission` and `Astronaut`), `NavigationStack` with multi-level drill-down, `LazyVGrid` with adaptive columns, and a custom dark color theme.
 - **Cupcake Corner** — A multi-screen cupcake ordering app that submits orders via a POST request using `URLSession`. Covers `Codable` for JSON encoding/decoding, `@Observable` for shared state across views, form validation with `disabled`, and `AsyncImage` for loading remote images. Lives on the `cupcake-corner` branch.
+- **BookWorm** — A book tracking app built with SwiftData. Add books by title, author, and genre, rate them with a custom star rating component, and write reviews. Covers `@Model`, `@Query`, `ModelContainer`, SwiftData persistence, custom `@Binding` views, and `NavigationStack` with detail drill-down. Lives on the `bookworm` branch.
 
 ## The Mindset
 
