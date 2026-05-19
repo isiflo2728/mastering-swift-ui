@@ -17,6 +17,7 @@ A collection of SwiftUI projects built while mastering iOS development. From the
 - **Cupcake Corner** — A multi-screen cupcake ordering app that submits orders via a POST request using `URLSession`. Covers `Codable` for JSON encoding/decoding, `@Observable` for shared state across views, form validation with `disabled`, and `AsyncImage` for loading remote images. Lives on the `cupcake-corner` branch.
 - **BookWorm** — A book tracking app built with SwiftData. Add books by title, author, and genre, rate them with a custom star rating component, and write reviews. Covers `@Model`, `@Query`, `ModelContainer`, SwiftData persistence, custom `@Binding` views, and `NavigationStack` with detail drill-down. Lives on the `bookworm` branch.
 - **SwiftDataProject** — A user management app exploring SwiftData deeper. Covers relationships between models (`User` and `Job`), dynamic filtering with `#Predicate`, dynamic sorting with `SortDescriptor`, programmatic navigation, iCloud sync via CloudKit, and separating query logic into dedicated views with custom initializers. Lives on the `swiftdata-project` branch.
+- **InstaFilter** — A photo filter app using Core Image. Import photos from your library, apply filters (Sepia, Crystallize, Pixellate, Gaussian Blur, and more), adjust intensity with a slider, and share the result. Covers `CIFilter`, `CIContext`, `PhotosPicker`, `@AppStorage`, `ShareLink`, and App Store review prompts via `StoreKit`. Lives on the `instafilter` branch.
 
 ## The Mindset
 
